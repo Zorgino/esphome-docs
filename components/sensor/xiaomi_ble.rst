@@ -351,7 +351,9 @@ In order to obtain the bind key, a SSL packet sniffer needs to be setup on eithe
     "data" = "{"did":"blt.3.129q4nasgeg00","token":"20c665a7ff82a5bfb5eefc36","props":[{"type":"prop","key":"bind_key","value":"cfc7cc892f4e32f7a733086cf3443cb0"},   {"type":"prop","key":"smac","value":"A4:C1:38:8C:34:B7"}]}"
 
 The ``bind_key`` is the 32 digits "value" item in the above output which needs to be inserted into the config file. 
-    
+
+Alternative method:
+https://www.room-assistant.io/integrations/xiaomi-mi.html#encryption
 
 See Also
 --------
